@@ -1072,3 +1072,66 @@ LogInit: Object subsystem initialized
 [2018.04.09-16.12.36:242][230]LogSavePackage: Moving '../../../../Gacha/Saved/BP_Player_Auto3A7DACDA124041209000C00CD25941D65.tmp' to '../../../../Gacha/Saved/Autosaves/Game/Blueprints/Players/BP_Player_Auto3.uasset'
 [2018.04.09-16.12.36:243][230]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Saved/Autosaves/Game/Blueprints/Players/BP_Player_Auto3.uasset
 [2018.04.09-16.12.36:243][230]LogFileHelpers: Auto-saving content packages took 0.043
+[2018.04.09-16.20.07:855][561]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.07:855][561]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.07:856][561]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.07:885][561]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.07:913][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.07:990][561]LogSavePackage: Save=41.07ms
+[2018.04.09-16.20.07:990][561]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA7DF5B1607041209001403B540812D27.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.07:991][561]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.07:995][561]LogFileHelpers: Saving map 'Level_MainMenu' took 0.107
+[2018.04.09-16.20.08:637][612]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.08:637][612]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.08:637][612]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.08:668][612]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.08:694][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.08:787][612]LogSavePackage: Save=59.89ms
+[2018.04.09-16.20.08:787][612]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA7E5ECD208041209001402D7408D0D76.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.08:788][612]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.08:791][612]LogFileHelpers: Saving map 'Level_MainMenu' took 0.121
+[2018.04.09-16.20.09:109][638]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:109][638]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:109][638]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:136][638]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.09:163][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.09:223][638]LogSavePackage: Save=32.45ms
+[2018.04.09-16.20.09:224][638]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA7EB0CF809041209001400BF40941902.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.09:224][638]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.09:228][638]LogFileHelpers: Saving map 'Level_MainMenu' took 0.090
+[2018.04.09-16.20.09:294][641]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:294][641]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:295][641]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:335][641]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.09:359][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.09:426][641]LogSavePackage: Save=33.56ms
+[2018.04.09-16.20.09:426][641]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA7F109840904120900140189409734BE.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.09:427][641]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.09:431][641]LogFileHelpers: Saving map 'Level_MainMenu' took 0.094
+[2018.04.09-16.20.09:465][641]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:465][641]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:466][641]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:505][641]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.09:532][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.09:599][641]LogSavePackage: Save=33.08ms
+[2018.04.09-16.20.09:599][641]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA7F7277809041209001402364099D019.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.09:600][641]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.09:604][641]LogFileHelpers: Saving map 'Level_MainMenu' took 0.097
+[2018.04.09-16.20.09:641][641]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:641][641]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:642][641]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:663][641]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.09:694][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.09:758][641]LogSavePackage: Save=31.66ms
+[2018.04.09-16.20.09:758][641]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA7FD1EF209041209001402D6409C4DD7.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.09:759][641]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.09:763][641]LogFileHelpers: Saving map 'Level_MainMenu' took 0.094
+[2018.04.09-16.20.09:814][642]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:814][642]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:815][642]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2018.04.09-16.20.09:845][642]LogLinux: Setting swap interval to 'Immediate'
+[2018.04.09-16.20.09:874][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/Level_MainMenu" FILE="../../../../Gacha/Content/_Levels/Level_MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.09-16.20.09:979][642]LogSavePackage: Save=78.09ms
+[2018.04.09-16.20.09:979][642]LogSavePackage: Moving '../../../../Gacha/Saved/Level_MainMenuA803D8E70904120900140385409EF5A6.tmp' to '../../../../Gacha/Content/_Levels/Level_MainMenu.umap'
+[2018.04.09-16.20.09:980][642]LogSavePackage: Display: Finished SavePackage ../../../../Gacha/Content/_Levels/Level_MainMenu.umap
+[2018.04.09-16.20.10:004][642]LogFileHelpers: Saving map 'Level_MainMenu' took 0.154
