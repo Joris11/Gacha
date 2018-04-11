@@ -1,0 +1,39 @@
+Generating report for minidump
+
+Application version 4.18.3.0
+ ... built from changelist 0
+
+OS version Linux 4.13.0-38-generic (network name: joris-HP-EliteBook-840-G2)
+Running 2 x86_64 processors (4 logical cores)
+Exception was "Ensure condition failed: Ar [File:/home/joris/UnrealEngine/Engine/Source/Developer/DirectoryWatcher/Private/FileCache.cpp] [Line: 521] "
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+iUnknown!FLinuxPlatformStackWalk::CaptureStackBackTrace(unsigned long long*, unsigned int, void*) + some bytes
+Unknown!FGenericPlatformStackWalk::StackWalkAndDump(char*, unsigned long, int, void*) + some bytes
+Unknown!FLinuxCrashContext::CaptureStackTrace() + some bytes
+Unknown!NewReportEnsure(wchar_t const*) + some bytes
+Unknown!FDebug::EnsureFailed(char const*, char const*, int, wchar_t const*) + some bytes
+Unknown!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse(bool, char const*, char const*, int, wchar_t const*, ...) + some bytes
+Unknown!DirectoryWatcher::FFileCache::WriteCache() + some bytes
+Unknown!FContentDirectoryMonitor::Tick() + some bytes
+Unknown!FAutoReimportManager::PromptUser() + some bytes
+Unknown!/home/joris/UnrealEngine/Engine/Binaries/Linux/libUE4Editor-UnrealEd.so(+0xc04e1c) [0x7f5468b0ae1c] + some bytes
+Unknown!FStateMachine<ECurrentState>::Tick(DirectoryWatcher::FTimeLimit const&) + some bytes
+Unknown!FAutoReimportManager::Tick(float) + some bytes
+Unknown!FTickableEditorObject::TickObjects(float) + some bytes
+Unknown!UEditorEngine::Tick(float, bool) + some bytes
+Unknown!UUnrealEdEngine::Tick(float, bool) + some bytes
+Unknown!FEngineLoop::Tick() + some bytes
+Unknown!GuardedMain(wchar_t const*) + some bytes
+Unknown!CommonLinuxMain(int, char**, int (*)(wchar_t const*)) + some bytes
+Unknown!/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xf0) [0x7f54665a6830] + some bytes
+Unknown!/home/joris/UnrealEngine/Engine/Binaries/Linux/UE4Editor(_start+0x29) [0x416d39] + some bytes
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!
